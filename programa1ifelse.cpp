@@ -8,7 +8,7 @@ do
 {
   cout << "==Menu==" << endl;
   cout << "1.-Torta" << endl;
-  cout << "2.-palomitas" << endl;
+  cout << "2.-palomitas " << endl;
   cout << "3.-agua" << endl;
   cout << "4.-salir " << endl;
 
