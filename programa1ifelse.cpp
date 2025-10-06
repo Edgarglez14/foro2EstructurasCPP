@@ -10,7 +10,7 @@ do
   cout << "1.-Torta" << endl;
   cout << "2.-palomitas" << endl;
   cout << "3.-agua" << endl;
-  cout << "4.-salir" << endl;
+  cout << "4.-salir " << endl;
 
   cin >> opcion;
 if (opcion == 1){
